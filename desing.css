@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:cornsilk;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+parrafo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
+#image img{
+  width: 800px;
+  height: 300px;
+}
