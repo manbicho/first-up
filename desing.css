@@ -1,16 +1,23 @@
 body{
     text-align: center;
-    background-color:cornsilk;
+    background-color:rgb(228, 210, 138);
 }
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
+    color: rgb(4, 4, 41);
 }
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: cornflowerblue;
+    color: rgb(54, 22, 7);
 }
 #image img{
   width: 800px;
   height: 300px;
+}
+#piePage {
+    position:absolute;
+    margin: auto;
+    top: 90%;
+    left: 45%;
+    color: rgb(4, 4, 41);
 }
