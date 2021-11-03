@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color:rgb(228, 210, 138);
+    background-color:rgb(228, 223, 206);
 }
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -13,6 +13,7 @@ p {
 #image img{
   width: 800px;
   height: 300px;
+  border-radius: 38px 38px 38px 38px;
 }
 #piePage {
     position:absolute;
@@ -20,4 +21,18 @@ p {
     top: 90%;
     left: 45%;
     color: rgb(4, 4, 41);
+}
+#cabecera {
+    width: 24%;
+    text-align: left;
+    margin: auto;
+    font-size:x-large;
+    color:whitesmoke;
+    background-color:rgb(97, 16, 16);
+    box-shadow:  0px 0px 18px 1px rgba(56,4,4,1);
+    padding: 0.4cm;
+}
+#tagline {
+    font-size: 0.5cm;
+    padding: 0.8cm;
 }
