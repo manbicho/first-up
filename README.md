@@ -1,2 +1,2 @@
 # first-up
-Primer archivo subido en github como estudianted e platzi
+Primer archivo subido en github como estudiante de platzi
