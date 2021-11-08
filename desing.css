@@ -20,7 +20,9 @@ p {
     margin: auto;
     top: 90%;
     left: 45%;
-    color: rgb(4, 4, 41);
+    background-color: rgb(32, 18, 21);
+    color: rgb(249, 249, 253);
+    border: rgb(64, 70, 13) 2px inset;
 }
 #cabecera {
     width: 24%;
