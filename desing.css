@@ -18,8 +18,8 @@ p {
 #piePage {
     position:absolute;
     margin: auto;
-    top: 90%;
-    left: 45%;
+    top: 125%;
+    left: 44.5%;
     background-color: rgb(32, 18, 21);
     color: rgb(249, 249, 253);
     border: rgb(64, 70, 13) 2px inset;
@@ -38,4 +38,7 @@ p {
 #tagline {
     font-size: 0.5cm;
     padding: 0.8cm;
+}
+#car {
+    border-radius: 24px 24px 24px 24px;
 }
